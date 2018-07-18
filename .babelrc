@@ -19,8 +19,7 @@
     ["transform-es2015-template-literals", { "loose": true }],
     "transform-es2015-unicode-regex",
     "transform-es2015-typeof-symbol",
-    "transform-object-rest-spread",
-    "lodash"
+    "transform-object-rest-spread"
 ],
 "env": {
     "commonjs": {
